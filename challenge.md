@@ -3,7 +3,7 @@
 
 The project aims to provide a RESTful API for managing tasks and labels. It allows users to perform CRUD operations on tasks and labels, with authentication provided by token-based authentication.
 
-# Project Setup Guide and API Endpoints for Task and Label Management
+## Project Setup Guide and API Endpoints for Task and Label Management
 
 Create python 3.11 virtual environment using the following command
 
